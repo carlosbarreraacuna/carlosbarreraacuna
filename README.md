@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Carlos Alberto Barrera Acuña <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
-<h3 align="center">Soy un apasionado desarrollador de software que se deleita en crear experiencias digitales interactivas y minimalistas. Me esfuerzo por combinar funcionalidad y estética, simplificando la complejidad para ofrecer soluciones elegantes y fáciles de usar. &#127470;&#127475</h3>
+<h3 align="center">Soy un apasionado desarrollador de software que se deleita en crear experiencias digitales interactivas y minimalistas. Me esfuerzo por combinar funcionalidad y estética, simplificando la complejidad para ofrecer soluciones elegantes y fáciles de usar</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -7,20 +7,18 @@
 
 <br/>
 
-<h2> About Me <img src = "" width =100px></h2>
+<h2> Acerca de mi <img src = "" width =100px></h2>
 
 - 🌱 Actualmente estoy trabajando en un e-commerce(React JS - Next JS)
 
-- 🤝 I’m available for freelancing.
+- 🤝 Estoy disponible para trabajar de manera autonoma.
 
-- 💬 Ask me about **Reactjs**
+- 📫 Contactame **carlos.barreraacuna@gmail.com**
 
-- 📫 How to reach me **carlos.barreraacuna@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/12uPs7-8LMa-GEKYlNZPCuUFD7c22wcig/view?usp=drive_link" target="blank">Resume</a>
+- 📄 Conoce mis experiencias <a href="https://drive.google.com/file/d/12uPs7-8LMa-GEKYlNZPCuUFD7c22wcig/view?usp=drive_link" target="blank">Hoja de vida</a>
 <br/>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
@@ -43,7 +41,7 @@
 <br/>
 
 
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
 
 <p align="left">
 
